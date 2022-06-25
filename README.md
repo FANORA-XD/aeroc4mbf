@@ -15,7 +15,7 @@ $ pip2 install bs4
 
 $ pkg install git
 
-$ git clone https://github.com/aeroc4mbf
+$ git clone https://github.com/FANORA-XD/aeroc4mbf
 
 $ cd aeroc4mbf
 
