@@ -1,5 +1,6 @@
 ```bash
 Sc FANORA XD  ✔ [work]
+
 $ pkg update && pkg upgrade
 
 $ pkg install python
